@@ -1,4 +1,4 @@
-![(ND.gif)]
+![](ND.gif)
 
 
 # Notre Dame FootBall Countdown Timer
